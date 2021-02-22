@@ -11,7 +11,7 @@ index_page_size = 10
 archives_page_size = 30
 fetch_remote_imgs = False
 enable_jsdelivr = {
-    "enabled": True,
+    "enabled": False,
     "repo": "darkliang/blog@gh-pages"
 }
 locale = "Asia/Shanghai"
@@ -26,7 +26,7 @@ email = "hi@imalan.cn"
 author_homepage = "https://www.leeeung.com"
 description = "This is Maverick, Theme Galileo."
 key_words = ["Maverick", "AlanDecode", "Galileo", "blog"]
-language = 'english'
+language = 'zh-CN'
 background_img = '${static_prefix}bg/The_Great_Wave_off_Kanagawa.jpg'
 external_links = [
     
