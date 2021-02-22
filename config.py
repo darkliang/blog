@@ -12,7 +12,7 @@ archives_page_size = 30
 fetch_remote_imgs = False
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "darkliang/blog@master"
+    "repo": "darkliang/blog@gh-pages"
 }
 locale = "Asia/Shanghai"
 category_by_folder = False
