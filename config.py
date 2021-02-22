@@ -11,7 +11,7 @@ index_page_size = 10
 archives_page_size = 30
 fetch_remote_imgs = False
 enable_jsdelivr = {
-    "enabled": False,
+    "enabled": True,
     "repo": "darkliang/blog@master"
 }
 locale = "Asia/Shanghai"
