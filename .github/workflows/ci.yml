@@ -24,7 +24,7 @@ jobs:
 
     - name: Build
       env:
-        site_prefix: /Maverick/
+        site_prefix: /
       run: |
         make site
 
